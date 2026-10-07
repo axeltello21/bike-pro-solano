@@ -12,9 +12,7 @@ export const products = [
     price: 25000,
     category: "Accesorios",
     description: "Casco de protección ajustable con visera"
-  }
-];
-
+  },
   {
     id: "fire-bird-r29",
     name: "Bicicleta Fire Bird Rodado 29",
@@ -23,4 +21,5 @@ export const products = [
     description: "Bicicleta mountain bike Fire Bird Rodado 29 ideal para todo tipo de terreno.",
     image: "https://images.unsplash.com/photo-1485965120184-e220f721d03e?w=500&q=80",
     inStock: true
-  },
+  }
+];
